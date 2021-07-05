@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 .head__list li {
   margin: 15px 0;
   padding: 0 0 0 35px;
-  background: url(../img/icons/icon.png) 2px 0 no-repeat;
+  background: url(./img/icons/icon.png) 2px 0 no-repeat;
 }
 .head__list li:last-child {
   margin: 0;
